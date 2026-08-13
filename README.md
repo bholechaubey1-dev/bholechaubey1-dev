@@ -1,4 +1,3 @@
-<img width="1080" height="1080" alt="build-a-data-warehouse-with-bigquery-skill-badge" src="https://github.com/user-attachments/assets/85b90179-310a-4d00-adf9-8839056eb450" />
 <h1 align="center">Hi , I'm Gajendra Chaube</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
